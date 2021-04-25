@@ -9,7 +9,7 @@ More information
 
 |  reading assignments    | Description |
 | :---        |    -----:   |
-|read 1      | Title       | 
+|class01      | [class1](https://github.com/sanaa-almoghraby/reading-notes201/blob/main/class-01.md)         | 
 |read 2     | Text        |
 | read3      | Title       | 
 | read4     | Text        |
