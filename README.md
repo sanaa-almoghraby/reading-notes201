@@ -10,8 +10,8 @@ More information
 |  reading assignments    | Description |
 | :---        |    -----:   |
 |class01    | [class1](https://github.com/sanaa-almoghraby/reading-notes201/blob/main/class-01.md)         | 
-|class0 2   |  [class02](https://github.com/sanaa-almoghraby/reading-notes201/blob/main/class-01.md)   |
-| read3      | Title       | 
+|class02   |  [class02](https://sanaa-almoghraby.github.io/reading-notes201/class02)   |
+| class03      | [class03](https://sanaa-almoghraby.github.io/reading-notes201/class03)    | 
 | read4     | Text        |
 | read5      | Title       | 
 |read6       | Text        |
