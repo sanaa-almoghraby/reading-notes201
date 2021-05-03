@@ -14,7 +14,7 @@ More information
 | class03      | [class03](https://sanaa-almoghraby.github.io/reading-notes201/class03)    | 
 |class04    | [](https://sanaa-almoghraby.github.io/reading-notes201/class04)       |
 | class05      |[](https://sanaa-almoghraby.github.io/reading-notes201/class05)       | 
-|read6       | Text        |
+|class06       | [](https://sanaa-almoghraby.github.io/reading-notes201/class06)        |
 | class07     | [](https://sanaa-almoghraby.github.io/reading-notes201/class07)      | 
 | read8    | Text        |
 | read9      | Title       | 
