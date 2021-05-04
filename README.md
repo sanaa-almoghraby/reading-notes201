@@ -16,7 +16,7 @@ More information
 | class05      |[](https://sanaa-almoghraby.github.io/reading-notes201/class05)       | 
 |class06       | [](https://sanaa-almoghraby.github.io/reading-notes201/class06)        |
 | class07     | [](https://sanaa-almoghraby.github.io/reading-notes201/class07)      | 
-| read8    | Text        |
+| class08    | [](https://sanaa-almoghraby.github.io/reading-notes201/class08)      |
 | read9      | Title       | 
 | read10     | Text        |
 | read11     | Title       | 
