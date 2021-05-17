@@ -20,7 +20,7 @@ More information
 | class09     |[](https://sanaa-almoghraby.github.io/reading-notes201/class09)      | 
 | class10     | [](https://sanaa-almoghraby.github.io/reading-notes201/class10)        |
 | class11     | [](https://sanaa-almoghraby.github.io/reading-notes201/class11)      | 
-| read12     | Text        |
+| class12     | [](https://sanaa-almoghraby.github.io/reading-notes201/class12)       |
 | read13      | Title       | 
 | read14     | Text        |
 | read15      | Title       | 
